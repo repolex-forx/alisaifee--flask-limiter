@@ -1,0 +1,11 @@
+{
+  "org": "alisaifee",
+  "repo": "flask-limiter",
+  "versions": [
+    {
+      "commit": "0e715b6fbb4655756f747c78d95d61deaa69dd1c",
+      "tag": "",
+      "parsed_at": "2026-10-19T12:26:01.665959+00:00"
+    }
+  ]
+}
