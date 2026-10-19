@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/alisaifee/flask-limiter/commit/0e715b6fbb4655756f747c78d95d61deaa69dd1c",
       "git:hexsha": "0e715b6fbb4655756f747c78d95d61deaa69dd1c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/alisaifee/flask-limiter/commit/79d1cf0fa32a3785130580085199c52253723b32",
